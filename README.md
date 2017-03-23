@@ -19,7 +19,7 @@ shiro框架测试项目工程
 6. 缓存 （org.apache.shiro.cache.ehcache.EhCacheManager）
 7. 记住我
 8. 拦截器
-## 未包括内容（）
+## 未包括内容
 
 ```
 由于初步接触Shiro 不常用的功能就没有测试了解，后期用到的功能模块 再进行了解。
